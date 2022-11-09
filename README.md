@@ -1,34 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - QR code component solution
 
-## Getting Started
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Screenshot
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![](./public/screenshot.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Links
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Learn More
+## My process
 
-To learn more about Next.js, take a look at the following resources:
+- Create a new project with Next.js
+- Install Tailwind Css
+- Create a new component for the QR code
+- Add the respective styles to get the expected result
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Built with
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Next.js
+- Tailwind Css for styles
+- Mobile-first workflow
 
-## Deploy on Vercel
+### What I learned
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The purpose of this project was to learn how to use Tailwind Css. I learned how to use the Tailwind Css framework to create a QR code component. I also really liked to use the Tailwind Css framework because it is very easy to use and it is very easy to create responsive components with it.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Useful resources
+
+- [Tailwind Css Docs](https://tailwindcss.com/docs/installation) - This helped me use the Tailwind Css framework to create the QR code component.
+
+## Author
+
+- Website - [Hugo Tiburcio](https://github.com/tiburciohugo)
+- Frontend Mentor - [@tiburciohugo](https://www.frontendmentor.io/profile/tiburciohugo)
+
+## Acknowledgments
+
+Shout out to the Tailwind guys for making an awesome framework and incredible documentation.
