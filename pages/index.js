@@ -10,8 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
 
-      <div class="w-screen h-screen font-poppins">
-        <div class="bg-white p-4 rounded-lg h-[32rem] my-16 mx-auto w-80 max-w-sm flex flex-col">
+      <div class="w-screen h-screen font-poppins grid content-center">
+        <div class="bg-white p-4 rounded-lg h-[32rem] mx-auto w-80 max-w-sm flex flex-col">
           <div class="bg-blue-300 w-full h-1/2 rounded-lg">
             <Image
               src="/image-qr-code.png"
